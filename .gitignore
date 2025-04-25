@@ -1,0 +1,3 @@
+# Ignorar archivos sensibles
+.env       # Ignora el archivo .env, que generalmente contiene variables de entorno con credenciales o configuraciones sensibles.
+venv/      # Ignora la carpeta venv/, que contiene el entorno virtual de Python con todas las bibliotecas instaladas.
